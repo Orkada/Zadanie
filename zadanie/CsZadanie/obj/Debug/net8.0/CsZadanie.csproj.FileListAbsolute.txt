@@ -1,0 +1,14 @@
+G:\Govnina\zadanie\CsZadanie\bin\Debug\net8.0\CsZadanie.exe
+G:\Govnina\zadanie\CsZadanie\bin\Debug\net8.0\CsZadanie.deps.json
+G:\Govnina\zadanie\CsZadanie\bin\Debug\net8.0\CsZadanie.runtimeconfig.json
+G:\Govnina\zadanie\CsZadanie\bin\Debug\net8.0\CsZadanie.dll
+G:\Govnina\zadanie\CsZadanie\bin\Debug\net8.0\CsZadanie.pdb
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\CsZadanie.GeneratedMSBuildEditorConfig.editorconfig
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\CsZadanie.AssemblyInfoInputs.cache
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\CsZadanie.AssemblyInfo.cs
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\CsZadanie.csproj.CoreCompileInputs.cache
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\CsZadanie.dll
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\refint\CsZadanie.dll
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\CsZadanie.pdb
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\CsZadanie.genruntimeconfig.cache
+G:\Govnina\zadanie\CsZadanie\obj\Debug\net8.0\ref\CsZadanie.dll
